@@ -8,9 +8,9 @@ git pull origin master
 
 ### Guardar Repositorio con cambios realizados
 
-git add .
+git add . "Para agregar los cambios locales"
 
-git commit -m "Cualquier nombre al guardado"
+git commit -m "Cualquier nombre al guardado" (para guardar cambios realizados)
 
-git push origin master
+git push origin master "Para actualizar y/o subirlo al repositorio"
 
